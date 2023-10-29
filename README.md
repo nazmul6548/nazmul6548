@@ -1,4 +1,6 @@
 ### Hi there I am NaZMuL 👋
+- 🌱 I’m currently learning javaScript,PhP
+- 💬 Ask me about HTML,CSS,javaScript.
 
 <!--
 **nazmul6548/nazmul6548** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
