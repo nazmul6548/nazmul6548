@@ -19,6 +19,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/nazmul-islam-jewel-b7525327a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazmul islam jewel" height="30" width="40" /></a>
 <a href="https://web.facebook.com/nazmul6548" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nazmul islam jewel" height="30" width="40" /></a>
+  <a href="https://discord.com/channels/1047169762251255808/1047183489197408287"><img align="centre" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F185293%2Fdiscord&psig=AOvVaw0aB32QDCVkJMRFbnSzgyQq&ust=1701445104537000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDzlJ2H7IIDFQAAAAAdAAAAABAE" alt="nazmul" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
