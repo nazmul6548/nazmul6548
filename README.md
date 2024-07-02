@@ -13,9 +13,9 @@
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:: &nbsp; Front-end web developer skilled in HTML, CSS, and JavaScript.. \
-&nbsp;&nbsp;&nbsp;:: &nbsp;Passionate about creating user-friendly and visually appealing websites..\
-&nbsp;&nbsp;&nbsp;:: &nbsp;Constantly learning and adapting to new technologies..\
-&nbsp;&nbsp;&nbsp;:: &nbsp; Focused on delivering high-quality, responsive designs to enhance user experience.\
+&nbsp;&nbsp;&nbsp;:: &nbsp; Passionate about creating user-friendly and visually appealing websites..\
+&nbsp;&nbsp;&nbsp;:: &nbsp; Constantly learning and adapting to new technologies..\
+&nbsp;&nbsp;&nbsp;:: &nbsp; Focused on delivering high-quality, responsive designs to enhance user experience.
 <p align="right">  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="img" width="400" /> </p>
 - 🌱 I’m currently learning **Next.js**
 
