@@ -1,6 +1,9 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1200/1*Xnc3gnJ_DQ9HlD05wA1HjQ.png)
 <h1 align="center">Hi 👋, I'm NaZMuL</h1>
 <h3 align="center">A passionate developer from Bangladesh.</h3>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Front-End%20web%20%20%20developer;1%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmul6548&label=Profile%20views&color=0e75b6&style=flat" alt="nazmul6548" /> </p>
@@ -9,9 +12,7 @@
 
 <p align="center">
   
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Front-End%20web%20%20%20developer;1%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
+
 
 - 🌱 I’m currently learning **javaScrip ,PhP**
 
