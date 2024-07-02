@@ -17,7 +17,7 @@
 &nbsp;&nbsp;&nbsp;:: &nbsp;Constantly learning and adapting to new technologies..\
 &nbsp;&nbsp;&nbsp;:: &nbsp; Focused on delivering high-quality, responsive designs to enhance user experience.\
 <p align="right">  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="img" width="400" /> </p>
-<p align="center" margin:"10px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazmul6548" alt="nazmul6548" /></a> </p>
+<p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazmul6548" alt="nazmul6548" /></a> </p>
 
 
   
@@ -53,7 +53,16 @@
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
 
 
-
+<details>
+  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <br/>
+    <p align="center">
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=brunotacca&hide_border=true&theme=nightowl" />
+    </p>
+    <p align="center">
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=brunotacca&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunotacca&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+    </p>
+</details>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazmul6548&show_icons=true&locale=en&layout=compact" alt="nazmul6548" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nazmul6548&show_icons=true&locale=en" alt="nazmul6548" /></p>
