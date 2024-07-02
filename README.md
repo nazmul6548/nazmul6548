@@ -1,4 +1,4 @@
-![MasterHead](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/308704806/original/6c4630284904a7c8969ede4f066efacaab349f03/develop-mobile-responsive-front-end-with-react-js.jpg)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1200/1*Xnc3gnJ_DQ9HlD05wA1HjQ.png)
 <h1 align="center">Hi 👋, I'm NaZMuL</h1>
 <h3 align="center">A passionate developer from Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
