@@ -16,7 +16,8 @@
 &nbsp;&nbsp;&nbsp;:: &nbsp;Passionate about creating user-friendly and visually appealing websites..\
 &nbsp;&nbsp;&nbsp;:: &nbsp;Constantly learning and adapting to new technologies..\
 &nbsp;&nbsp;&nbsp;:: &nbsp; Focused on delivering high-quality, responsive designs to enhance user experience.\
-<p align="right">  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="img" width="400" /> </p><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazmul6548" alt="nazmul6548" /></a> </p>
+<p align="right">  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="img" width="400" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazmul6548" alt="nazmul6548" /></a> </p>
 
 
   
@@ -28,7 +29,6 @@
 
 - 📫 How to reach me **nazmul.islam.juwel9@gmail.com**
 
-- ⚡ Fun fact **i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
