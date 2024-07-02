@@ -17,11 +17,11 @@
 &nbsp;&nbsp;&nbsp;:: &nbsp; Constantly learning and adapting to new technologies..\
 &nbsp;&nbsp;&nbsp;:: &nbsp; Focused on delivering high-quality, responsive designs to enhance user experience.
 <p align="right">  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="img" width="400" /> </p>
-- 🌱 I’m currently learning **Next.js**
+-🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **HTML, CSS,JavaScript, React.js, Next.js, MongoDB,Node.js, Express.js, Firebase**
+-💬 Ask me about **HTML, CSS,JavaScript, React.js, Next.js, MongoDB,Node.js, Express.js, Firebase**
 
-- 📫 How to reach me **nazmul.islam.juwel9@gmail.com**
+-📫 How to reach me **nazmul.islam.juwel9@gmail.com**
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazmul6548" alt="nazmul6548" /></a> </p>
 
 
