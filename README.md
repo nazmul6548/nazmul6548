@@ -24,10 +24,17 @@
 - ⚡ Fun fact **i am funny**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/nazmul-islam-jewel-b7525327a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazmul islam jewel" height="30" width="40" /></a>
-<a href="https://web.facebook.com/nazmul6548" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nazmul islam jewel" height="30" width="40" /></a>
-  <a href="https://discord.com/channels/@me" target="blank"><img align="centre" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nazmul" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
+  <a href="https://www.youtube.com/c/DevProTips">
+    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/DenverCoder1?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
