@@ -57,7 +57,7 @@
   
   <br/>
     <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazmul6548&show_icons=true&locale=en&layout=compact&theme=nightowl" />
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=nazmul6548&theme=nightowl" />
     </p>
     <p align="center">
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=nazmul6548&show_icons=true&locale=en&theme=nightowl" /> 
