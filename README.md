@@ -8,6 +8,14 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmul6548&label=Profile%20views&color=0e75b6&style=flat" alt="nazmul6548" /> </p>
+### :space_invader: &nbsp;About Me
+
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Software Engineer at [Cint](https://www.cint.com/). \
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching software architecture, development, and quality.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2004 with 10+ years of experience in enterprise wide software development.\
+&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Brazil with my lovely wife :two_hearts:, Kali :service_dog:, and Maia :service_dog: 
 <p align="right">  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="img" width="400" /> </p><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazmul6548" alt="nazmul6548" /></a> </p>
 
 
