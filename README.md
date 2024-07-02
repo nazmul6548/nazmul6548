@@ -8,7 +8,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmul6548&label=Profile%20views&color=0e75b6&style=flat" alt="nazmul6548" /> </p>
-<p align="right"> <img src="<p align="left"> <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="300" /> </p>
+<p align="right"> <img src="<p align="left"> <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt=""img width="400" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazmul6548" alt="nazmul6548" /></a> </p>
 
