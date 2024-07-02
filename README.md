@@ -15,11 +15,11 @@
   
 
 
-- 🌱 I’m currently learning **javaScrip ,PhP**
+- 🌱 I’m currently learning **javaScrip**
 
-- 💬 Ask me about **HTML,CSS,javaScript.**
+- 💬 Ask me about **HTML,CSS,javaScript**
 
-- 📫 How to reach me **nazmul6548@gmail.com**
+- 📫 How to reach me **nazmul.islam.juwel9@gmail.com**
 
 - ⚡ Fun fact **i am funny**
 
@@ -28,8 +28,8 @@
  
  
 
-  <a href="mailto:brunotacca@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/bruno.vitorellitacca"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="nazmul.islam.juwel9@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://web.facebook.com/nazmul6548?mibextid=9R9pXO&_rdc=1&_rdr"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/brunotacca/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/md-nazmul-juwel-juwel/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   
