@@ -54,7 +54,7 @@
 
 
 <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazmul6548&show_icons=true&locale=en&layout=compact&theme=nightowl" />
@@ -64,8 +64,4 @@
      <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazmul6548&show_icons=true&locale=en&layout=compact&theme=nightowl" />
     </p>
 </details>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazmul6548&show_icons=true&locale=en&layout=compact" alt="nazmul6548" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nazmul6548&show_icons=true&locale=en" alt="nazmul6548" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nazmul6548&" alt="nazmul6548" /></p>
